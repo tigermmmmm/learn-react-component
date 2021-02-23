@@ -2,11 +2,12 @@ import React, { Component } from 'react'
 
 class ChildCpn extends Component {
     // constructor(props) {
-    //     super(props);
+    //     super();
+    //     console.log(this.props, 'props');  // undefined
     // }
-    
+     
     render() {
-        const {name, age, height} = this.props;
+        const {name, age, height} = this.props;  // 这里能使用，源码中 会在此处赋值。
         
         return (
             // eslint-disable-next-line

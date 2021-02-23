@@ -43,7 +43,7 @@ ChildCpn.defaultProps = {
     name: 'ljm',
     age: 23,
     height: 1.77,
-    names: ['2','dad'] 
+    names: ['2','dad']
 }
 
 export default class App extends Component {

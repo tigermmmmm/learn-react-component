@@ -1,0 +1,26 @@
+.tab-control {
+  display: flex;
+  height: 40px;
+  line-height: 40px;
+}
+.tab-item {
+  flex: 1;
+  text-align: center;
+}
+
+.tab-item.active {
+  color: red;
+}
+
+.tab-item span {
+  padding: 5px 8px;
+}
+
+.tab-item span:hover {
+  cursor: pointer;
+}
+
+.tab-item.active span {
+  color: red;
+  border-bottom: 1px solid red;
+}
