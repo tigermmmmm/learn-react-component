@@ -20,7 +20,7 @@ export default class App extends Component {
 
     increment() {
         // 必须通过setState来改变当前数据
-        // this.state.count += 1;  错误 react不知道数据改变了
+        // this.state.count += 1;  错误 react不知道数据改变了 
 
         this.setState({
             count: this.state.count + 1
