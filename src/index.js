@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import App from './01_组件的定义方式/App';
-import App from "./08_setState的使用/05_setState本身的合并"
+import App from "./09_React性能优化/04_PureComponent"
 
 ReactDOM.render(
   // <React.StrictMode>
