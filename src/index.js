@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from "./12_高阶组件的使用/05_高阶组件应用-生命周期劫持"
+import App from "./13_组件内容的补充/01_ref的转发"
 
 ReactDOM.render(
   // <React.StrictMode>
