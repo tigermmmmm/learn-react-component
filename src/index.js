@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import App from './01_组件的定义方式/App';
-import App from "./11_受控和非受控组件/05_非受控组件"
+import App from "./12_高阶组件的使用/05_高阶组件应用-生命周期劫持"
 
 ReactDOM.render(
   // <React.StrictMode>
