@@ -1,0 +1,4 @@
+/* 直接子代选择器 */
+.profile > .title {
+    color: yellow;
+}

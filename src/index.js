@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from "./13_组件内容的补充/04_strictMode的使用·"
+import App from "./14_react中的样式/04_styled-components/app"
 
 ReactDOM.render(
   // <React.StrictMode>
